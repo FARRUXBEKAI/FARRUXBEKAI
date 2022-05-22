@@ -21,7 +21,7 @@ Property | Data
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![FARRUXBEKAI's github activity graph](https://activity-graph.herokuapp.com/graph?username=FARRUXBEKAI&theme=react-yellow)](https://github.com/FARRUXBEKAI/github-readme-activity-graph)
+[![FARRUXBEKAI's github activity graph](https://activity-graph.herokuapp.com/graph?username=FARRUXBEKAI&theme=react-dark)](https://github.com/FARRUXBEKAI/github-readme-activity-graph)
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FARRUXBEKAI"></img>
