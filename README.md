@@ -27,4 +27,4 @@ Property | Data
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FARRUXBEKAI"></img>
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-red-animate.svg)
