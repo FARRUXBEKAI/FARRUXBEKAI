@@ -1,4 +1,4 @@
-
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Farruxbek+Sotivoldiyev;+Welcome+to+My+Profile!;Live+in+Uzbekistan;Always+learning+new+things+;I+am+currently+studying+artificial+intelligence)](https://git.io/typing-svg)
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/FARRUXBEKAI)  [![Followers](https://img.shields.io/github/followers/FARRUXBEKAI?style=social)](https://github.com/FARRUXBEKAI?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/FARRUXBEKAI) [![Repos Badge](https://badges.pufler.dev/repos/FARRUXBEKAI)](https://github.com/FARRUXBEKAI?tab=repositories)
@@ -8,7 +8,7 @@
 **📫 How to Reach me:**
 
 <a href="https://t.me/AI_1102002"> <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" width="50px"/> </a>&nbsp;&nbsp;
-<a href="https://t.me/AI_1102002"> <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" width="50px"/> </a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/farukhbe_02\"> <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" width="50px"/> </a>&nbsp;&nbsp;
 
 
 ### Tools & Platform:
