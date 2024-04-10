@@ -8,7 +8,7 @@
 **📫 How to Reach me:**
 
 <a href="https://t.me/AI_1102002"> <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" width="50px"/> </a>&nbsp;&nbsp;
-<a href="https://t.me/AI_1102002"> <img src="https://e7.pngegg.com/pngimages/792/947/png-clipart-instagram-logo-social-media-instagram-login-facebook-advertising-instagram-text-logo-thumbnail.png" width="50px"/> </a>&nbsp;&nbsp;
+<a href="https://t.me/AI_1102002"> <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" width="50px"/> </a>&nbsp;&nbsp;
 
 
 ### Tools & Platform:
